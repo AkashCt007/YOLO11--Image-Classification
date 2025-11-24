@@ -20,10 +20,8 @@ This project implements YOLO11 for multi-object detection and classification. Us
 **Launch:** `streamlit run app.py`
 
 ### Interferene
-
-**[Insert Screenshot: Application Interface]**
-
-**[Insert Screenshot: Detection Results]**
+![alt text](<Screenshot 2025-11-19 090555.png>)
+![alt text](<Screenshot 2025-11-19 090728.png>)
 
 ---
 
